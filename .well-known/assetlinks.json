@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.mevascompany.kidsongs",
-    "sha256_cert_fingerprints":
-    ["C5:59:80:E2:8B:C8:B3:D7:06:57:0C:1D:16:D1:B0:38:FD:37:CB:0F:FE:DF:5C:49:CB:A8:4E:A4:83:CD:B7:22"]
-  }
-}]
